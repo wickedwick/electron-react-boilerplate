@@ -185,7 +185,7 @@
     "enzyme": "^3.3.0",
     "enzyme-adapter-react-16": "^1.1.1",
     "enzyme-to-json": "^3.3.4",
-    "eslint": "^5.2.0",
+    "eslint": "^5.8.0",
     "eslint-config-airbnb": "^17.0.0",
     "eslint-config-prettier": "^2.9.0",
     "eslint-formatter-pretty": "^1.3.0",
@@ -235,11 +235,14 @@
     "yarn": "^1.9.2"
   },
   "dependencies": {
+    "@civicplus/preamble": "^0.1.53",
     "@fortawesome/fontawesome-free": "^5.2.0",
+    "animejs": "^2.2.0",
     "devtron": "^1.4.0",
     "electron-debug": "^2.0.0",
     "history": "^4.7.2",
     "react": "^16.4.1",
+    "react-anime": "^2.2.0",
     "react-dom": "^16.4.1",
     "react-hot-loader": "^4.3.4",
     "react-redux": "^5.0.7",
